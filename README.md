@@ -20,7 +20,7 @@ pertama aktifkan Xampp, selanjutnya start aphace dan mysqly
 ![7](https://user-images.githubusercontent.com/56498195/121340825-39d5ae00-c94a-11eb-9ee1-a5d83528343f.PNG)
 
 
-kita buatkan file header.php yang kita tempatkan di folder template. Kita rancang desain template headernya. Pada contoh berikut adalah potongan code yang mewakilkan template_header.php.
+Membuat file header.php yang kita tempatkan di folder template. Kita rancang desain template headernya. Pada contoh berikut adalah potongan code yang mewakilkan template_header.php.
 #
 ![9](https://user-images.githubusercontent.com/56498195/121340014-4b6a8600-c949-11eb-945a-4824abdb68bb.PNG)
 
@@ -31,10 +31,40 @@ hasil broser
 
 
 
-Kemudian kita buat sebuah template footer pada tempat yang sama yaitu di folder template dengan nama footer.php . Berikut ini adalah potongan code yang mewakilkan template footer.
+Kemudian membuat sebuah template footer pada tempat yang sama yaitu di folder template dengan nama footer.php . Berikut ini adalah potongan code yang mewakilkan template footer.
 #
 ![10](https://user-images.githubusercontent.com/56498195/121340103-66d59100-c949-11eb-9ee7-e09bb2fa1443.PNG)
 
 hasil broser
 
 ![2](https://user-images.githubusercontent.com/56498195/121340332-b2883a80-c949-11eb-8fc6-08c22496e29c.PNG)
+
+
+
+# Pertanyaan dan Tugas
+Implementasikan konsep modularisasi pada kode program praktikum 8 tentangdatabase, sehingga setiap halamannya memiliki template tampilan yang sama.
+
+
+
+Membuat file footer.php untuk kemudian di masukan ke index dengan menggunakan require
+
+
+![10](https://user-images.githubusercontent.com/56498195/121347718-b6b85600-c951-11eb-9a5d-1a5fdf5d2d7d.PNG)
+
+Buat file baru dengan nama header.php
+
+
+![9](https://user-images.githubusercontent.com/56498195/121347745-bcae3700-c951-11eb-944a-798a1d3dda76.PNG)
+
+Menambahkan Style CSS untuk mepercantik tample
+
+
+![style2](https://user-images.githubusercontent.com/56498195/121347811-cf287080-c951-11eb-94a4-16dcf9932961.PNG)
+
+
+![style3](https://user-images.githubusercontent.com/56498195/121347827-d2236100-c951-11eb-9afd-f7e262e80bd1.PNG)
+
+
+![syle 1](https://user-images.githubusercontent.com/56498195/121347833-d485bb00-c951-11eb-8455-ad650f046f2f.PNG)
+
+
