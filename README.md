@@ -19,6 +19,9 @@ pertama aktifkan Xampp, selanjutnya start aphace dan mysqly
 #
 ![7](https://user-images.githubusercontent.com/56498195/121340825-39d5ae00-c94a-11eb-9ee1-a5d83528343f.PNG)
 
+Buat folder baru dengan nama lab9_php_modular pada docroot webserver(htdocs)
+
+![14](https://user-images.githubusercontent.com/56498195/121348438-90df8100-c952-11eb-9296-0b30510476c5.PNG)
 
 Membuat file header.php yang kita tempatkan di folder template. Kita rancang desain template headernya. Pada contoh berikut adalah potongan code yang mewakilkan template_header.php.
 #
