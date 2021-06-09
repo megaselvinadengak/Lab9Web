@@ -15,7 +15,7 @@ Modularisasi didalam PHP terdiri dari:
     
 
 # Langka - langka Praktikum
-pertama aktifkan Xampp, selanjutnya start aphace dan mysqly
+pertama membuka Xampp, selanjutnya start aphace dan mysql
 #
 ![7](https://user-images.githubusercontent.com/56498195/121340825-39d5ae00-c94a-11eb-9ee1-a5d83528343f.PNG)
 
