@@ -74,10 +74,10 @@ Menambahkan Style CSS untuk mepercantik tample
   hasil browser :
   
   
-![4](https://user-images.githubusercontent.com/56498195/121352370-fdf51580-c956-11eb-9899-9a08780dba1a.PNG)
-
+![6](https://user-images.githubusercontent.com/56498195/121352380-ffbed900-c956-11eb-9cbf-8a087d8003be.PNG)
+  
 
 ![5](https://user-images.githubusercontent.com/56498195/121352378-ff264280-c956-11eb-933f-6820194de85a.PNG)
 
 
-![6](https://user-images.githubusercontent.com/56498195/121352380-ffbed900-c956-11eb-9cbf-8a087d8003be.PNG)
+![4](https://user-images.githubusercontent.com/56498195/121352370-fdf51580-c956-11eb-9899-9a08780dba1a.PNG)
