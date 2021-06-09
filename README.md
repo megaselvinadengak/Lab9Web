@@ -62,12 +62,10 @@ Buat file baru dengan nama header.php
 Menambahkan Style CSS untuk mepercantik tample
 
 
+![syle 1](https://user-images.githubusercontent.com/56498195/121347833-d485bb00-c951-11eb-8455-ad650f046f2f.PNG)
+
+
 ![style2](https://user-images.githubusercontent.com/56498195/121347811-cf287080-c951-11eb-94a4-16dcf9932961.PNG)
 
 
 ![style3](https://user-images.githubusercontent.com/56498195/121347827-d2236100-c951-11eb-9afd-f7e262e80bd1.PNG)
-
-
-![syle 1](https://user-images.githubusercontent.com/56498195/121347833-d485bb00-c951-11eb-8455-ad650f046f2f.PNG)
-
-
